@@ -1,0 +1,11 @@
+Guide: Import in MySQL (Workbench)
+
+Administration > Data Import > Import from Self-Contained File
+(Select the file from the Folder Path)
+
+>> Start Import
+
+
+code.victorcarablut.com
+
+
