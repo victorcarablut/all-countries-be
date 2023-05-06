@@ -2,7 +2,7 @@
 
 # Technologies
 
-### This is `backend`  . . . go to [frontend](https://victorcarablut/all-countries-fe)
+### This is `backend`  . . . go to [frontend](https://github.com/victorcarablut/all-countries-fe)
 
 ```
 // backend
